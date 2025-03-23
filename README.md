@@ -180,7 +180,7 @@ View the full project in my GitHub [here](https://github.com/petersjared5/Chicag
 View the project presentation [here](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/Slide%20Deck.pdf)
 
 
-Contact Jared Peters at [petersjared5@gmail.com](petersjared5@gmail.com) with additional questions.
+Contact Jared Peters at [petersjared5@gmail.com](mailto:petersjared5@gmail.com) with additional questions.
 
 ## Repository Structure
 
