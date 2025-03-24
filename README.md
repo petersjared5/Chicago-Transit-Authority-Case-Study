@@ -150,7 +150,7 @@ This is when CTA services are the most needed.
   2. CTA Improvement
      - Faster bus routes through additionally bus lanes and more frequent “L” service
   3. Reduce Car Traﬃc
-     - Crash frequency go down
+     - Crash frequency goes down
      - Fewer crashes at key intersections
 
 <img src="https://hips.hearstapps.com/hmg-prod/images/nyc-congestion-pricing-getty-images-677bf68757178.jpg?crop=0.8893229166666666xw:1xh;center,top&resize=1200:*" width="1280" height="640">
