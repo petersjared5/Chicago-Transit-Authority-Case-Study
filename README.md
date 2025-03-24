@@ -93,7 +93,7 @@ To understand patterns and potential risk factors influencing traffic crashes be
 
 **High-Risk Crash Locations**: 
 
-Most crashes occur near the Loop or Streeterville, with six out of ten hotspots on Lake Shore Dr. (Outter Drive). 
+Most crashes occur near the Loop or Streeterville, with six out of ten hotspots on Lake Shore Dr. (OuterDrive). 
 
 Other hotspots occur on key arterial roads (e.g., Western Ave, Pulaski Rd, Cicero Ave). 
 
