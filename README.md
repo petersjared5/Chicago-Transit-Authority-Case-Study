@@ -14,7 +14,7 @@ In this case study, I analyzed Chicago Transit Authority (CTA) traffic crash dat
 ## Key Crash Statistics: Scope of Analysis
 ### Important Statistics
   - Chicago Police Traffic Crash Dataset
-    - 924,030 total crashes in data set
+    - 924,030 total crashes in dataset
    - Peak Crash Times
      - Morning Peak: 8AM (49,141 crashes)
      - Evening Peak: 5 PM (71,538 crashes) (Rush hours have the highest crash volumes)
