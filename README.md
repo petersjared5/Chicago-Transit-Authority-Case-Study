@@ -91,7 +91,7 @@ To understand patterns and potential risk factors influencing traffic crashes be
 ## Key findings
 #### Section 1. Where & When Crashes Happen: Analyzing where and when crashes happen and their impact on CTA operations
 
-**High-Risk Crash Locations**: 
+**High-Risk Crash Locations** 
 
 Most crashes occur near the Loop or Streeterville, with six out of ten hotspots on Lake Shore Dr. (Outer Drive). 
 
