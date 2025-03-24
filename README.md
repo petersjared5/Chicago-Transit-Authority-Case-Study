@@ -86,16 +86,16 @@ These steps ensured that the data was ready for insightful visualizations and re
   - Cleaned and ready for exploratory analysis, visualization, and summary statistics generation
 
 ## Exploratory Data Analysis
-To understand patterns and potential risk factors influencing traffic crashes better, I conducted exploratory analysis across multiple key dimensions. This included examining when and where crashes most frequently occur, the types of crashes reported, and environmental factors such as lighting, road surface, weather conditions, and speed limits. By breaking down the data across these categories, I was able to identify recurring trends and high-risk scenarios that could impact CTA operations. The insights gathered provide a data-driven foundation for evaluating crash hot spots and shaping policy recommendations to improve traffic safety and reduce disruptions.
+To understand patterns and potential risk factors influencing traffic crashes better, I conducted exploratory analysis across multiple key dimensions. This included examining when and where crashes most frequently occur, the types of crashes reported, and environmental factors such as lighting, road surface, weather conditions, and speed limits. By breaking down the data across these categories, I was able to identify recurring trends and high-risk scenarios that could impact CTA operations. The insights gathered provide a data-driven foundation for evaluating crash hotspots and shaping policy recommendations to improve traffic safety and reduce disruptions.
 
 ## Key findings
 #### Section 1. Where & When Crashes Happen: Analyzing where and when crashes happen and their impact on CTA operations
 
 **High-Risk Crash Locations**: 
 
-Most crashes occur near the Loop or Streeterville, with six out of ten hot spots on Lake Shore Dr. (Outter Drive). 
+Most crashes occur near the Loop or Streeterville, with six out of ten hotspots on Lake Shore Dr. (Outter Drive). 
 
-Other hot spots occur on key arterial roads (e.g., Western Ave, Pulaski Rd, Cicero Ave). 
+Other hotspots occur on key arterial roads (e.g., Western Ave, Pulaski Rd, Cicero Ave). 
 
 ![Chicago Traffic Crash Hotspots Map](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Chicago%20Traffic%20Crash%20Hotspots%20Map.png)
 
@@ -136,7 +136,7 @@ This is when CTA services are the most needed.
 
 **The Case for Congestion Pricing**
   1. High crash rates near the Loop during peak hours.
-     - Crash hot spots are centered near the Loop or other near by areas.
+     - Crash hotspots are centered near the Loop or other near by areas.
   2. Increased CTA bus delays due to congestion during peak hours.
      - Crashes peak during morning and evening rushhours.
 
