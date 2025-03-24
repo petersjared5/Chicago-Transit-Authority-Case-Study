@@ -122,7 +122,7 @@ Rear ends, sideswipes, and turning were nearly 500k of common crashes. Bus stops
 
 These are indicative of congestion-related incidents.
 
-![Top 5 Speed Limits with the Most Crashes](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Top%205%20Speed%20Limits%20with%20the%20Most%20Crashes.png)
+![Top 5 Most Common Crash Types](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Top%205%20Most%20Common%20Crash%20Types.png)
 
 **Most Common Roadway Surface Conditions During Crashes**
   
