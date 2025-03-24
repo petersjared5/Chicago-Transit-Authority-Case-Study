@@ -41,7 +41,7 @@ The primary objective of this analysis is to evaluate how traffic crashes impact
      - Evaluate the potential policy implications, including the feasibility of strategies like congestion pricing in The Loop, and how such policies could influence both traffic flow and
        CTA efficiency.
 
-### **Overview of Data Preparation Steps**
+## **Overview of Data Preparation Steps**
 
 Given the large volume and complexity of the Chicago crash dataset, careful preparation was essential to ensure reliable analysis and actionable insights. Key steps included:
 
@@ -58,7 +58,7 @@ Given the large volume and complexity of the Chicago crash dataset, careful prep
   5. Feature Aggregation: Grouped crash records by key factors (e.g., crash type, street name, lighting condition) and summarized them to identify top occurrences, reducing noise and
      highlighting trends.
 
-### **Data Preparation**:
+## **Data Preparation**:
   For transparency and reproducibility, the entire data cleaning and preparation process was conducted within my R script files. The dataset provided by the Chicago Police Department’s Traffic Crashes database required several cleaning and filtering steps to ensure accuracy and focus the analysis. Key steps included:
 
   - Filtering out non-informative values (e.g., "UNKNOWN", "OTHER", "NOT APPLICABLE") across multiple variables to reduce noise.
@@ -71,7 +71,7 @@ Given the large volume and complexity of the Chicago crash dataset, careful prep
 
 These steps ensured that the data was ready for insightful visualizations and reliable statistical analysis. Full details of the data preparation are embedded and well-documented within the R scripts used for this case exercise.
 
-### **Final Cleaned Dataframe Overview**:
+## **Final Cleaned Dataframe Overview**:
 
   - Cleaned dataset derived from the original Chicago Police Department – Traffic Crashes dataset
 
