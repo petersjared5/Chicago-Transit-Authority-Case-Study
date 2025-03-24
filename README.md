@@ -69,7 +69,7 @@ Given the large volume and complexity of the Chicago crash dataset, careful prep
 
   - Removing invalid entries such as missing street names and zero or negative speed limits.
 
-These steps ensured that the data was ready for insightful visualizations and reliable statistical analysis. Full details of the data preparation are embedded and well-documented within the R scripts used for this case exercise.
+These steps ensured that the data was ready for insightful visualizations and reliable statistical analysis. Full details of the data preparation are embedded and well-documented within the R script used for this case exercise.
 
 ## **Final Cleaned Dataframe Overview**
 
