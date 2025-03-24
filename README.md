@@ -59,7 +59,7 @@ Given the large volume and complexity of the Chicago crash dataset, careful prep
      highlighting trends.
 
 ## **Data Preparation**
-  For transparency and reproducibility, the entire data cleaning and preparation process was conducted within my R script files. The dataset provided by the Chicago Police Department’s Traffic Crashes database required several cleaning and filtering steps to ensure accuracy and focus the analysis. Key steps included:
+  For transparency and reproducibility, the entire data cleaning and preparation process was conducted within my R script file. The dataset provided by the Chicago Police Department’s Traffic Crashes database required several cleaning and filtering steps to ensure accuracy and focus the analysis. Key steps included:
 
   - Filtering out non-informative values (e.g., "UNKNOWN", "OTHER", "NOT APPLICABLE") across multiple variables to reduce noise.
 
