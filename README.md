@@ -116,7 +116,7 @@ This increase in crashes during those hours contributes to bus delays & increase
 
 ![Top 5 Speed Limits with the Most Crashes](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Top%205%20Speed%20Limits%20with%20the%20Most%20Crashes.png)
 
-**Most Common Crash Types**: 
+**Most Common Crash Types** 
 
 Rear ends, sideswipes, and turning were nearly 500k of common crashes. Bus stops, turning lanes, and high-traffic intersections contribute to these crashes.
 
