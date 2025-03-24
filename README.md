@@ -58,7 +58,7 @@ Given the large volume and complexity of the Chicago crash dataset, careful prep
   5. Feature Aggregation: Grouped crash records by key factors (e.g., crash type, street name, lighting condition) and summarized them to identify top occurrences, reducing noise and
      highlighting trends.
 
-## **Data Preparation**:
+## **Data Preparation**
   For transparency and reproducibility, the entire data cleaning and preparation process was conducted within my R script files. The dataset provided by the Chicago Police Department’s Traffic Crashes database required several cleaning and filtering steps to ensure accuracy and focus the analysis. Key steps included:
 
   - Filtering out non-informative values (e.g., "UNKNOWN", "OTHER", "NOT APPLICABLE") across multiple variables to reduce noise.
@@ -71,7 +71,7 @@ Given the large volume and complexity of the Chicago crash dataset, careful prep
 
 These steps ensured that the data was ready for insightful visualizations and reliable statistical analysis. Full details of the data preparation are embedded and well-documented within the R scripts used for this case exercise.
 
-## **Final Cleaned Dataframe Overview**:
+## **Final Cleaned Dataframe Overview**
 
   - Cleaned dataset derived from the original Chicago Police Department – Traffic Crashes dataset
 
@@ -88,7 +88,7 @@ These steps ensured that the data was ready for insightful visualizations and re
 ## Exploratory Data Analysis
 To understand patterns and potential risk factors influencing traffic crashes better, I conducted exploratory analysis across multiple key dimensions. This included examining when and where crashes most frequently occur, the types of crashes reported, and environmental factors such as lighting, road surface, weather conditions, and speed limits. By breaking down the data across these categories, I was able to identify recurring trends and high-risk scenarios that could impact CTA operations. The insights gathered provide a data-driven foundation for evaluating crash hot spots and shaping policy recommendations to improve traffic safety and reduce disruptions.
 
-## Key findings:
+## Key findings
 #### Section 1. Where & When Crashes Happen: Analyzing where and when crashes happen and their impact on CTA operations
 
 **High-Risk Crash Locations**: 
@@ -100,7 +100,7 @@ Other hot spots occur on key arterial roads (e.g., Western Ave, Pulaski Rd, Cice
 ![Chicago Traffic Crash Hotspots Map](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Chicago%20Traffic%20Crash%20Hotspots%20Map.png)
 
 
-**Peak Crash Hours**:
+**Peak Crash Hours**
 
 Morning (8 AM) and evening rush hours (3-5 PM) see the most crashes. 
 
@@ -110,7 +110,7 @@ This increase in crashes during those hours contributes to bus delays & increase
 
 #### Section 2. Why Crashes Happen & Policy Implications: Analyzing the causes and suggesting potential CTA-focused solutions
 
-**Most Common Speed Limit Crashes**: 
+**Most Common Speed Limit Crashes** 
 
 30 MPH zones have the most crashes, covering key CTA routes
 
@@ -124,7 +124,7 @@ These are indicative of congestion-related incidents.
 
 ![Top 5 Speed Limits with the Most Crashes](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Top%205%20Speed%20Limits%20with%20the%20Most%20Crashes.png)
 
-**Most Common Roadway Surface Conditions During Crashes**:
+**Most Common Roadway Surface Conditions During Crashes**
   
 Wintry weather causes many crashes. 
 
@@ -134,7 +134,7 @@ This is when CTA services are the most needed.
 
 #### Section 3. Policy Recommendation – Congestion Pricing in the Loop: Proposing a data-driven policy solution relevant to CTA & city planning
 
-**The Case for Congestion Pricing**: 
+**The Case for Congestion Pricing**
   1. High crash rates near the Loop during peak hours.
      - Crash hot spots are centered near the Loop or other near by areas.
   2. Increased CTA bus delays due to congestion during peak hours.
@@ -144,7 +144,7 @@ This is when CTA services are the most needed.
   - Fewer private vehicles → reduced crashes.
   - Improved bus travel times & reliability.
 
-**How Congestion Pricing Would Work**: 
+**How Congestion Pricing Would Work** 
   1. Vehicles pay a fee to enter the Loop during peak hours
      - Price to be set based on CTA transit rates.
   2. CTA Improvement
@@ -158,12 +158,12 @@ This is when CTA services are the most needed.
 Similar to Lower Manhattan's congestion pricing system.
 
 ### Conclusion. Key Takeaways & Next Steps for CTA Consideration: How the CTA can mitigate crash risks and improve mobility in high-impact areas
-**Key Takeaways**: 
+**Key Takeaways** 
   1. High crash density in the Loop & major corridors.
   2. Rush hour crashes disrupt CTA services.
   3. Congestion pricing can ease traffic & improve transit reliability.
 
-**Next Steps for CTA Consideration**: 
+**Next Steps for CTA Consideration** 
   1. Partner with CDOT to assess congestion pricing impact & feasibility.
   2. Implement bus priority measures in high-crash areas.
   3. Develop targeted crash reduction strategies for key transit routes.
