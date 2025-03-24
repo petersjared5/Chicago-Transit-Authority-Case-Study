@@ -114,7 +114,7 @@ This increase in crashes during those hours contributes to bus delays & increase
 
 30 MPH zones have the most crashes, covering key CTA routes
 
-![Top 5 Most Common Crash Types](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Top%205%20Most%20Common%20Crash%20Types.png)
+![Top 5 Speed Limits with the Most Crashes](https://github.com/petersjared5/Chicago-Transit-Authority-Case-Study/blob/main/images/Top%205%20Speed%20Limits%20with%20the%20Most%20Crashes.png)
 
 **Most Common Crash Types**: 
 
